@@ -24,4 +24,4 @@
 
 #### 测试结果
 
-![](https://res.cloudinary.com/qlyfdljh/image/upload/v1734844293/pytorch-deep-learning-practice/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/test_1.png)
+![](https://res.cloudinary.com/qlyfdljh/image/upload/v1734844618/pytorch-deep-learning-practice/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/test_1.png)

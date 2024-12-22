@@ -38,7 +38,7 @@ for w in np.arange(0.0, 8.1, 0.1):
 
 # 创建一个图形 (fig) 和一个 3D 子图 (ax)   projection='3d' 表示这是一个 3D 图
 fig = plt.figure()
-# 将一个子图 (Axes) 添加到 fig 中，=
+# 将一个子图 (Axes) 添加到 fig 中
 # add_subplot 的参数可以指定子图的位置和排列方式
 # 111：是一个特殊的参数，表示在 1行 1列的网格中创建第一个子图
 ax = fig.add_subplot(111, projection='3d')
